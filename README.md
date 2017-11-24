@@ -2,4 +2,4 @@
 
 Kakao Desktop App Clone
 
-testtestst
+life is short.
